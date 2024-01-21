@@ -64,7 +64,7 @@ For more information on the importance of a professional README for your reposit
 # 📖 [Budget App] <a name="about-project"></a>
 
 
-**[A Budget App]** that will show a list of posts and empower readers to interact with them by adding comments and liking the posts.
+**[A Budget App]** Users can see their transactions and the money they've spent on them. They will be able to create new transactions with categories.
 
 ## 🛠 Built With <a name="built-with"></a>
 
