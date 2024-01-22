@@ -100,7 +100,8 @@ For more information on the importance of a professional README for your reposit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
+### Video description
+[Video Description](https://www.loom.com/share/af6a188f36594c3d941d6cb21666976f?sid=7a249d2d-0c1f-4225-a3be-739332996d28)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
