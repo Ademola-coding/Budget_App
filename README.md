@@ -95,8 +95,7 @@ For more information on the importance of a professional README for your reposit
 
 ### Key Features <a name="key-features"></a>
 
-- **[empower_readers_to_interact_with_them_by_adding_comments_and_liking_the_posts]**
-- **[show_a_list_of_posts]**
+- **[Manage fund]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,9 +140,9 @@ rail server
 - Twitter: [@twitterhandle](https://twitter.com/steady1700)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ademola-owoeye)
 
-### Futre Features <a name="future-features"></a>
+### Future Features <a name="future-features"></a>
 
-- **[Allow_users_to_bookmark_blog_post]**
+- **[Allow_users_to_save fund]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
