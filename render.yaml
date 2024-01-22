@@ -10,7 +10,7 @@ services:
     runtime: ruby
     plan: free
     buildCommand: "bundle install"
-    # preDeployCommand: "./bin/rails db:migrate" # preDeployCommand only available on paid instance types
+    # preDeployCommand: "bin/rails assets:precompile" # preDeployCommand only available on paid instance types
     startCommand: "bundle exec puma -C config/puma.rb"
     envVars:
       - key: DATABASE_URL
