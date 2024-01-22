@@ -20,7 +20,6 @@ Layout/EndOfLine:
     - 'db/migrate/20240121022252_create_expenses.rb'
     - 'db/migrate/20240121022329_create_category_expenses.rb'
     - 'db/seeds.rb'
-    - 'bin/*'
 
 # Offense count: 1
 # Configuration parameters: AllowedMethods, AllowedPatterns, CountRepeatedAttributes.

@@ -2,3 +2,12 @@ inherit_from: .rubocop_todo.yml
 
 AllCops:
   TargetRubyVersion: 3.0
+  NewCops: enable
+  Exclude:
+    - "db/**/*"
+    - "bin/*" 
+    - "config/**/*"
+    - "Guardfile"
+    - "Rakefile"
+    - "node_modules/**/*"
+
